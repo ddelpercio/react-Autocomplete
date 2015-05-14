@@ -1,0 +1,32 @@
+body {
+  padding: 20px;
+  background: #c1d8fa;
+}
+
+
+table{
+	background-color: #72a7f4;
+	margin: 0;
+	width: 600px;
+	border-radius: 5px;
+	 border: 1px solid darken(#c1d8fa, 20%);
+}
+
+.search-table th{
+	background-color: #72a7f4;
+	margin: auto;
+	width: 200px;
+	border-radius: 5px;
+	 border: 1px solid darken(#c1d8fa, 20%);
+}
+
+.CountryTable table{
+	background-color: inherit;
+	margin: auto;
+	width: 200px;
+	border-radius: 5px;
+}
+
+.CountryTable tr:hover{
+	background-color: #1265dd
+}
